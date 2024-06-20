@@ -36,14 +36,18 @@ Make sure you have Node.js installed on your system.
 ### Running the Application
 
 To start the development server and open the application in your browser, run:
-`   npm start
-  `
+
+```
+npm start
+```
 
 ### Building for Production
 
 To create a production build, run:
-`   npm run build
-  `
+
+```
+npm run build
+```
 
 ## Project Structure
 
