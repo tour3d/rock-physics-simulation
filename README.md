@@ -19,7 +19,7 @@ Make sure you have Node.js installed on your system.
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/rock-physics-simulation.git
+   git clone https://github.com/tour3d/rock-physics-simulation.git
    ```
 
 2. Navigate to the project directory:
@@ -36,14 +36,14 @@ Make sure you have Node.js installed on your system.
 ### Running the Application
 
 To start the development server and open the application in your browser, run:
-`    npm start
-   `
+`   npm start
+  `
 
 ### Building for Production
 
 To create a production build, run:
-`    npm run build
-   `
+`   npm run build
+  `
 
 ## Project Structure
 
