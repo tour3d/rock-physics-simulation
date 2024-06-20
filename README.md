@@ -14,7 +14,7 @@ This project is a web application that simulates the physics of rocks falling fr
 
 ### Prerequisites
 
-Make sure you have Node.js installed on your system.
+Make sure you have [Node.js](https://nodejs.org) installed on your system.
 
 ### Installation
 
