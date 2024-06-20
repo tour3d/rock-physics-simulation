@@ -1,5 +1,7 @@
 # Rock Physics Simulation
 
+![Screenshot](assets/screenshot.jpg)
+
 This project is a web application that simulates the physics of rocks falling from a height. You can generate rocks by clicking on the surface with the left mouse button or by pressing the spacebar for continuous rock generation.
 
 ## Features

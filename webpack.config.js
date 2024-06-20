@@ -35,7 +35,7 @@ module.exports = {
           to: path.resolve(__dirname, 'dist/static'),
         },
         {
-          from: path.resolve(__dirname, 'web-server.exe'),
+          from: path.resolve(__dirname, 'assets/web-server.exe'),
           to: path.resolve(__dirname, 'dist/web-server.exe'),
         },
       ],
