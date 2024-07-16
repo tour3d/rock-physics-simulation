@@ -4,6 +4,8 @@
 
 This project is a web application that simulates the physics of rocks falling from a height. You can generate rocks by clicking on the surface with the left mouse button or by pressing the spacebar for continuous rock generation.
 
+## [Demo](https://d971d54a-6f4d-4f3b-9027-1b16a0c29369.selstorage.ru/media/3d/rock-physics-simulation/index.html)
+
 ## Features
 
 - Physics simulation using Cannon.js
